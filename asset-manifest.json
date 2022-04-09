@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoo_ha/static/css/main.4336b7e8.css",
+    "main.js": "/hoo_ha/static/js/main.174f634e.js",
+    "static/js/787.afe094a0.chunk.js": "/hoo_ha/static/js/787.afe094a0.chunk.js",
+    "static/media/plate.png": "/hoo_ha/static/media/plate.6be14563dae751043770.png",
+    "static/media/shape-gray.svg": "/hoo_ha/static/media/shape-gray.f6066aae924fb58049f59f91cf65d50d.svg",
+    "static/media/logo.png": "/hoo_ha/static/media/logo.2d636cdd436c3b00cd0d.png",
+    "static/media/tracking.svg": "/hoo_ha/static/media/tracking.4aa283cb5e519378c9bc5e71dd11fb5d.svg",
+    "static/media/fast-delivery.svg": "/hoo_ha/static/media/fast-delivery.09d0622ed27a8b8cf1dea1be29c81750.svg",
+    "static/media/order.svg": "/hoo_ha/static/media/order.267a0d083f7652dca166593fe7a7e203.svg",
+    "static/media/kodekoast-logo.svg": "/hoo_ha/static/media/kodekoast-logo.f688d7e41b060de6e36fa362fb1e6c76.svg",
+    "static/media/shape-orange.svg": "/hoo_ha/static/media/shape-orange.4e4d775da84612b18749.svg",
+    "index.html": "/hoo_ha/index.html",
+    "main.4336b7e8.css.map": "/hoo_ha/static/css/main.4336b7e8.css.map",
+    "main.174f634e.js.map": "/hoo_ha/static/js/main.174f634e.js.map",
+    "787.afe094a0.chunk.js.map": "/hoo_ha/static/js/787.afe094a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4336b7e8.css",
+    "static/js/main.174f634e.js"
+  ]
+}
